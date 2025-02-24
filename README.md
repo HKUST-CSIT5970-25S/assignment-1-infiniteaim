@@ -23,8 +23,8 @@
     In order to answer this question, you need to complete the following table by filling out blanks with the measurement results corresponding to each instance type.
 
     | Size        | CPU performance | Memory performance |
-    | Size        | Comp      Decomp| Memory performance |
     | ----------- | --------------- | ------------------ |
+    |             | Comp      Decomp|                    |
     | `t2.micro` | 3730MIPS  3103MIPS|                    |
     | `t2.medium`  |                 |                    |
     | `c5d.large` |                 |                    |
