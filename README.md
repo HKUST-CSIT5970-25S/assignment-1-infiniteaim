@@ -26,7 +26,7 @@
     | ----------- | --------------- | ------------------ |
     | `t2.micro` | 3730MIPS - 3103MIPS| 10615.62 MB/s 10797.76 MB/s  10053.99 MB/s|
     | `t2.medium`  |10140MIPS -  5911MIPS |19200.65 MB/s  19595.73 MB/s 18304.58 MB/s|
-    | `c5d.large` |                 |                    |
+    | `c5d.large` | 7562MIPS - 4840 MIPS |13916.40 MB/s  13802.71 MB/s  13759.32 MB/s |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 24.04 LTS (HVM)` as AMI.
 
