@@ -16,7 +16,7 @@
 1. (1 mark) Report the name of measurement tool used in your measurements (you are free to choose *any* open source measurement software as long as it can measure CPU and memory performance). Please describe your configuration of the measurement tool, and explain why you set such a value for each parameter. Explain what the values obtained from measurement results represent (e.g., the value of your measurement result can be the execution time for a scientific computing task, a score given by the measurement tools or something else).
 
     > **1.** I use phoronix-test-suite run pts/compress-7zip to test CPU performace cause it is a common method to test cpu and the result is the **MIPS(Million Instructions Per Second)**.
-    > **2.** Then I use phoronix-test-suite run pts/ramspeed to test memory writing/reading performance and the result type is the W/R rate **MB/s(Mege Bytes per Seconds)**.
+    > **2.** Then I use phoronix-test-suite run pts/ramspeed to test memory writing/reading performance, including Copy, Scale, and Triad types with two benchmarks: Int/Float, the result type is the W/R rate **MB/s(Mege Bytes per Seconds)**.
 
 2. (1 mark) Run your measurement tool on general purpose `t2.micro`, `t2.medium`, and `c5d.large` Linux instances, respectively, and find the performance differences among these instances. Launch all the instances in the **US East (N. Virginia)** region. Does the performance of EC2 instances increase commensurate with the increase of the number of vCPUs and memory resource?
 
