@@ -28,7 +28,7 @@
     | `t2.medium`  |10140MIPS -  5911MIPS |19200.65 MB/s  19595.73 MB/s 18304.58 MB/s|
     | `c5d.large` |                 |                    |
 
-    > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI.
+    > Region: US East (N. Virginia). Use `Ubuntu Server 24.04 LTS (HVM)` as AMI.
 
 ## Question 2: Measure the EC2 Network performance
 
