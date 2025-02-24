@@ -24,7 +24,6 @@
 
     | Size        | CPU performance | Memory performance |
     | ----------- | --------------- | ------------------ |
-    |             | Comp      Decomp|                    |
     | `t2.micro` | 3730MIPS  3103MIPS|                    |
     | `t2.medium`  |                 |                    |
     | `c5d.large` |                 |                    |
