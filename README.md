@@ -36,10 +36,10 @@
 
     | Type                      | TCP b/w (Mbps) | RTT (ms) |
     | ------------------------- | -------------- | -------- |
-    | `t3.medium` - `t3.medium` |                |          |
+    | `t3.medium` - `t3.medium` |3.72 Gbits/sec  | 593ms    |
     | `m5.large` - `m5.large`   |                |          |
     | `c5n.large` - `c5n.large` |                |          |
-    | `t3.medium` - `c5n.large` |                |          |
+    | `t3.medium` - `c5n.large` |2.30 Gbits/sec  |  655ms   |
     | `m5.large` - `c5n.large`  |                |          |
     | `m5.large` - `t3.medium`  |                |          |
 
